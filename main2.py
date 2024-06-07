@@ -1,6 +1,6 @@
 # https://github.com/jacklinquan/usbserial4a
 
-__version__ = "0.1"
+__version__ = "0.2"
 __author__ = "Veresov Alex"
 __email__ = "lexa1st@mail.ru"
 
